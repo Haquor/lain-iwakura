@@ -2,7 +2,7 @@
 
 ### Installation
 
-lain-iwakura requires [Node.js](https://nodejs.org/) to run.
+lain-iwakura requires [Node.js](https://nodejs.org/) and [Discord.js](https://discord.js.org/#/) to run.
 
 Create config.js with your Discord bot's token
 ```
