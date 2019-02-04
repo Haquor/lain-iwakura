@@ -1,0 +1,32 @@
+{
+  "name": "lain-iwakura",
+  "version": "1.0.0",
+  "description": "One discord bot, to rule them all. Enter the wired",
+  "main": "lain.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Haquor/lain-iwakura.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "lain",
+    "iwakura",
+    "serial",
+    "experiments",
+    "lain"
+  ],
+  "author": "Haquor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haquor/lain-iwakura/issues"
+  },
+  "homepage": "https://github.com/Haquor/lain-iwakura#readme"
+}
