@@ -1,3 +1,6 @@
 # Compile dependencies on your own
 node_modules/
+lib/
+include/
+bin/
 config.json
